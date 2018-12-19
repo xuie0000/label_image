@@ -1,0 +1,5 @@
+/data/inception*
+/data/imagenet_slim_labels.txt
+.idea/
+.DS_Store
+/venv/
